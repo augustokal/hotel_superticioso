@@ -5,3 +5,5 @@ for i in range (1, 20):
         print("Andar amaldiçoado, impossivel entrar")
     else:
         print("Andar"+str(i))
+
+        qw
